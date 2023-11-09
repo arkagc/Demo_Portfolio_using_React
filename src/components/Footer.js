@@ -1,5 +1,4 @@
 import "./FooterStyles.css";
-
 import React from 'react';
 import {FaHome, FaPhone, FaMailBulk, FaFacebook, FaTwitter, FaLinkedin} from "react-icons/fa";
 
@@ -44,5 +43,4 @@ const Footer = () => {
     </div>
   )
 }
-
 export default Footer
