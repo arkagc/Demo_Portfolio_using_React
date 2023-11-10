@@ -1,5 +1,4 @@
 import "./FormStyles.css";
-
 import React from 'react'
 
 const Form = () => {
@@ -23,5 +22,4 @@ const Form = () => {
     </div>
   )
 }
-
 export default Form
